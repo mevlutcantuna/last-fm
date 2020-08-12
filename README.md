@@ -10,7 +10,7 @@
 To setup the project, run the following on your terminal in the order: 
 
 ```
-git clone https://github.com/can5252/Last-FM 
+git clone https://github.com/mevlutcantuna/Last-FM 
 ```
 
 ```
